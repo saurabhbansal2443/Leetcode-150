@@ -3,8 +3,8 @@ let questionsData = [
     id: 1,
     name: "Merge Sorted Array",
     url: "https://leetcode.com/problems/merge-sorted-array/",
-    youtubeLink: "",
-    githubLink: "",
+    youtubeLink: "https://www.youtube.com/watch?v=QpPOvwej2Eg",
+    githubLink: "https://www.youtube.com/watch?v=QpPOvwej2Eg",
   },
   {
     id: 2,
