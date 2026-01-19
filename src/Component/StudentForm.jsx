@@ -1,28 +1,21 @@
 import React, { useState } from "react";
 import toast, { Toaster } from "react-hot-toast";
 import { motion } from "framer-motion";
-import image from "../Assets/codingTerminalLogo.jpeg";
-import {
-  Youtube,
-  ExternalLink,
-  ChevronRight,
-  Award,
-  BookOpen,
-  Target,
-} from "lucide-react";
+import { Youtube, ChevronRight, Award, BookOpen, Target } from "lucide-react";
 
 // Animation Variants
 const fadeInUp = {
   initial: { opacity: 0, y: 30 },
-  animate: { opacity: 1, y: 0 },
+  whileInView: { opacity: 1, y: 0 },
+  viewport: { once: true },
   transition: { duration: 0.6, ease: "easeOut" },
 };
 
 const staggerContainer = {
-  animate: { transition: { staggerChildren: 0.1 } },
+  initial: {},
+  whileInView: { transition: { staggerChildren: 0.1 } },
+  viewport: { once: true },
 };
-
-const LOGO_URL = image;
 
 const StudentForm = () => {
   const [loading, setLoading] = useState(false);
@@ -45,7 +38,7 @@ const StudentForm = () => {
           mode: "no-cors",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(formData),
-        }
+        },
       );
       toast.success("Successfully Registered! Check your email soon. 🎉");
       setFormData({
@@ -70,54 +63,28 @@ const StudentForm = () => {
     <div className="min-h-screen bg-[#0a0a0c] text-white font-sans selection:bg-indigo-500/30 overflow-x-hidden">
       <Toaster position="top-center" />
 
-      {/* Navbar with subtle drop-in */}
-      <motion.nav
-        initial={{ y: -100 }}
-        animate={{ y: 0 }}
-        className="border-b border-white/10 bg-black/50 backdrop-blur-xl sticky top-0 z-50"
-      >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex justify-between items-center">
-          <div className="flex items-center space-x-3">
-            <img
-              src={LOGO_URL}
-              alt="Coding Terminal"
-              className="w-10 h-10 rounded-full border border-indigo-500/50"
-            />
-            <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
-              Coding Terminal
-            </span>
-          </div>
-          <motion.a
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            href="https://youtube.com/@CodingTerminal"
-            target="_blank"
-            className="flex items-center gap-2 bg-red-600 hover:bg-red-700 px-4 py-2 rounded-full text-sm font-bold transition-all"
-          >
-            <Youtube size={18} /> Subscribe
-          </motion.a>
-        </div>
-      </motion.nav>
-
       {/* Hero Section */}
-      <header className="relative pt-20 pb-16 px-4">
-        {/* Breathing Background Glow */}
+      <header className="relative pt-16 pb-8 px-4">
+        {/* Animated Background Glow */}
         <motion.div
-          animate={{ opacity: [0.15, 0.3, 0.15], scale: [1, 1.1, 1] }}
-          transition={{ duration: 8, repeat: Infinity }}
-          className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[300px] bg-indigo-600/20 blur-[120px] rounded-full -z-10"
+          animate={{
+            opacity: [0.1, 0.25, 0.1],
+            scale: [1, 1.2, 1],
+            rotate: [0, 45, 0],
+          }}
+          transition={{ duration: 10, repeat: Infinity, ease: "linear" }}
+          className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-indigo-600/30 blur-[140px] rounded-full -z-10"
         />
 
         <motion.div
-          variants={staggerContainer}
           initial="initial"
-          whileInView="animate"
-          viewport={{ once: true }}
+          whileInView="whileInView"
+          variants={staggerContainer}
           className="max-w-4xl mx-auto text-center"
         >
           <motion.div
             variants={fadeInUp}
-            className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-indigo-500/30 bg-indigo-500/10 text-indigo-400 text-xs font-bold uppercase tracking-widest mb-6"
+            className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-indigo-500/30 bg-indigo-500/10 text-indigo-400 text-xs font-bold uppercase tracking-widest mb-8"
           >
             <span className="relative flex h-2 w-2">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-indigo-400 opacity-75"></span>
@@ -128,10 +95,10 @@ const StudentForm = () => {
 
           <motion.h1
             variants={fadeInUp}
-            className="text-5xl md:text-7xl font-black mb-6 leading-[1.1]"
+            className="text-5xl md:text-8xl font-black mb-6 leading-[1.05] tracking-tight"
           >
-            Master the <span className="text-indigo-500">Top 150</span> <br />
-            LeetCode Interview Set
+            Master the <span className="text-indigo-500">Top 150</span> <br />{" "}
+            LeetCode Set
           </motion.h1>
 
           <motion.p
@@ -142,31 +109,21 @@ const StudentForm = () => {
             to crack MAANG interviews with daily guidance.
           </motion.p>
 
-          <motion.div
-            variants={fadeInUp}
-            className="flex flex-wrap justify-center gap-4"
-          >
+          <motion.div variants={fadeInUp}>
             <motion.a
               whileHover={{
                 scale: 1.05,
-                boxShadow: "0px 0px 20px rgba(79, 70, 229, 0.4)",
+                boxShadow: "0px 0px 30px rgba(79, 70, 229, 0.5)",
               }}
               whileTap={{ scale: 0.95 }}
               href="#register"
-              className="px-8 py-4 bg-indigo-600 rounded-xl font-bold transition-all flex items-center gap-2"
+              className="px-10 py-5 bg-indigo-600 rounded-2xl font-bold transition-all flex items-center gap-3 w-fit mx-auto group"
             >
-              Join the Challenge <ChevronRight size={20} />
-            </motion.a>
-            <motion.a
-              whileHover={{
-                scale: 1.05,
-                backgroundColor: "rgba(255,255,255,0.1)",
-              }}
-              whileTap={{ scale: 0.95 }}
-              href="#challenge"
-              className="px-8 py-4 bg-white/5 border border-white/10 rounded-xl font-bold transition-all flex items-center gap-2"
-            >
-              View List <ExternalLink size={18} />
+              Join the Challenge
+              <ChevronRight
+                size={22}
+                className="group-hover:translate-x-1 transition-transform"
+              />
             </motion.a>
           </motion.div>
         </motion.div>
@@ -174,11 +131,10 @@ const StudentForm = () => {
 
       {/* Value Propositions */}
       <motion.section
-        variants={staggerContainer}
         initial="initial"
-        whileInView="animate"
-        viewport={{ once: true, amount: 0.3 }}
-        className="max-w-7xl mx-auto px-4 py-12 grid md:grid-cols-3 gap-8"
+        whileInView="whileInView"
+        variants={staggerContainer}
+        className="max-w-7xl mx-auto px-4 pt-12  grid md:grid-cols-3 gap-8"
       >
         {[
           {
@@ -199,140 +155,123 @@ const StudentForm = () => {
         ].map((item, i) => (
           <motion.div
             variants={fadeInUp}
-            whileHover={{ y: -10, borderColor: "rgba(99, 102, 241, 0.5)" }}
             key={i}
-            className="p-8 rounded-2xl bg-white/[0.03] border border-white/10 transition-all cursor-default"
+            whileHover={{ y: -10 }}
+            className="p-8 rounded-3xl bg-white/[0.03] border border-white/10 transition-colors hover:border-indigo-500/40 group"
           >
-            <div className="mb-4">{item.icon}</div>
-            <h3 className="text-xl font-bold mb-2">{item.title}</h3>
+            <div className="mb-6 p-3 bg-white/5 w-fit rounded-2xl group-hover:bg-indigo-500/10 transition-colors">
+              {item.icon}
+            </div>
+            <h3 className="text-2xl font-bold mb-3">{item.title}</h3>
             <p className="text-gray-400 leading-relaxed">{item.desc}</p>
           </motion.div>
         ))}
       </motion.section>
 
       {/* Registration Section */}
-      <section id="register" className="max-w-5xl mx-auto px-4 py-20">
+      <section id="register" className="max-w-6xl mx-auto px-4 py-12">
         <motion.div
-          initial={{ opacity: 0, scale: 0.95 }}
-          whileInView={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.8 }}
+          initial={{ opacity: 0, y: 50 }}
+          whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="bg-gradient-to-b from-indigo-600/10 to-transparent rounded-[2.5rem] border border-white/10 overflow-hidden shadow-2xl"
+          transition={{ duration: 0.8 }}
+          className="bg-gradient-to-br from-indigo-600/20 via-transparent to-transparent rounded-[3rem] border border-white/10 overflow-hidden shadow-2xl backdrop-blur-sm"
         >
-          <div className="grid lg:grid-cols-2 gap-0">
-            {/* Left Side: Motivation */}
-            <div className="p-10 lg:p-16 flex flex-col justify-center">
+          <div className="grid lg:grid-cols-2">
+            <div className="p-12 lg:p-20">
               <motion.h2
                 variants={fadeInUp}
-                initial="initial"
-                whileInView="animate"
-                className="text-3xl font-bold mb-6"
+                className="text-4xl font-bold mb-8"
               >
-                Commit to 150 Days of Consistency.
+                Commit to 150 Days.
               </motion.h2>
-              <ul className="space-y-4 mb-8">
+              <motion.ul
+                variants={staggerContainer}
+                initial="initial"
+                whileInView="whileInView"
+                className="space-y-6"
+              >
                 {[
                   "Get the exclusive DSA Roadmap PDF.",
-                  "Personalized updates on new video uploads.",
+                  "Personalized updates on uploads.",
                   "Join our community of 10k+ learners.",
                 ].map((text, idx) => (
                   <motion.li
-                    initial={{ opacity: 0, x: -20 }}
-                    whileInView={{ opacity: 1, x: 0 }}
-                    transition={{ delay: 0.2 + idx * 0.1 }}
                     key={idx}
-                    className="flex items-start gap-3 text-gray-300"
+                    variants={fadeInUp}
+                    className="flex items-center gap-4 text-gray-300 text-lg"
                   >
-                    <div className="mt-1 bg-indigo-500/20 p-1 rounded-full">
-                      <Award size={16} className="text-indigo-400" />
+                    <div className="p-1 bg-indigo-500/20 rounded-full">
+                      <Award size={20} className="text-indigo-400" />
                     </div>
-                    <span>{text}</span>
+                    {text}
                   </motion.li>
                 ))}
-              </ul>
+              </motion.ul>
             </div>
 
-            {/* Right Side: Form */}
-            <div className="p-6 lg:p-12 bg-white/5 backdrop-blur-sm">
-              <form onSubmit={handleSubmit} className="space-y-4">
-                {/* Input fields with focus animations */}
+            <div className="p-8 lg:p-14 bg-white/[0.02] border-l border-white/5">
+              <form onSubmit={handleSubmit} className="space-y-5">
+                {/* Input Fields */}
                 {[
-                  {
-                    label: "Full Name",
-                    name: "name",
-                    type: "text",
-                    placeholder: "Enter your name",
-                  },
-                  {
-                    label: "Email",
-                    name: "email",
-                    type: "email",
-                    placeholder: "name@example.com",
-                  },
-                  {
-                    label: "WhatsApp Number",
-                    name: "phoneNumber",
-                    type: "tel",
-                    placeholder: "+91 XXXXX XXXXX",
-                  },
+                  { id: "name", label: "Full Name", type: "text" },
+                  { id: "email", label: "Email Address", type: "email" },
+                  { id: "phoneNumber", label: "WhatsApp Number", type: "tel" },
                 ].map((field) => (
-                  <motion.div
-                    key={field.name}
-                    variants={fadeInUp}
-                    className="space-y-1"
-                  >
-                    <label className="text-xs font-bold text-gray-400 uppercase tracking-wider">
+                  <motion.div key={field.id} variants={fadeInUp}>
+                    <label className="text-xs font-bold text-gray-500 uppercase tracking-[0.2em] ml-1 mb-2 block">
                       {field.label}
                     </label>
                     <input
-                      name={field.name}
+                      name={field.id}
                       type={field.type}
                       required
-                      className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 focus:ring-2 focus:ring-indigo-500 outline-none transition-all focus:border-indigo-500"
-                      placeholder={field.placeholder}
+                      placeholder={`Your ${field.id}`}
+                      className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 outline-none focus:ring-2 focus:ring-indigo-500/50 focus:border-indigo-500 transition-all placeholder:text-gray-600"
                       onChange={handleChange}
-                      value={formData[field.name]}
+                      value={formData[field.id]}
                     />
                   </motion.div>
                 ))}
 
-                <div className="grid grid-cols-2 gap-4">
-                  <div className="space-y-1">
-                    <label className="text-xs font-bold text-gray-400 uppercase tracking-wider">
+                <div className="grid grid-cols-2 gap-5">
+                  <motion.div variants={fadeInUp}>
+                    <label className="text-xs font-bold text-gray-500 uppercase tracking-[0.2em] ml-1 mb-2 block">
                       College
                     </label>
                     <input
                       name="college"
                       required
-                      className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 focus:ring-2 focus:ring-indigo-500 outline-none"
                       placeholder="University"
+                      className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 outline-none focus:ring-2 focus:ring-indigo-500/50 transition-all placeholder:text-gray-600"
                       onChange={handleChange}
                       value={formData.college}
                     />
-                  </div>
-                  <div className="space-y-1">
-                    <label className="text-xs font-bold text-gray-400 uppercase tracking-wider">
+                  </motion.div>
+                  <motion.div variants={fadeInUp}>
+                    <label className="text-xs font-bold text-gray-500 uppercase tracking-[0.2em] ml-1 mb-2 block">
                       Branch
                     </label>
                     <input
                       name="branch"
                       required
-                      className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 focus:ring-2 focus:ring-indigo-500 outline-none"
-                      placeholder="CSE / IT"
+                      placeholder="e.g. CSE"
+                      className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 outline-none focus:ring-2 focus:ring-indigo-500/50 transition-all placeholder:text-gray-600"
                       onChange={handleChange}
                       value={formData.branch}
                     />
-                  </div>
+                  </motion.div>
                 </div>
 
                 <motion.button
-                  whileHover={{ scale: 1.02 }}
+                  variants={fadeInUp}
+                  whileHover={{ scale: 1.02, backgroundColor: "#f3f4f6" }}
                   whileTap={{ scale: 0.98 }}
                   type="submit"
                   disabled={loading}
-                  className="w-full bg-white text-black font-black py-4 rounded-xl hover:bg-gray-200 transition-all disabled:opacity-50 mt-4 shadow-xl"
+                  className="w-full bg-white text-black font-black py-5 rounded-2xl transition-all disabled:opacity-50 mt-6 shadow-2xl text-lg"
                 >
-                  {loading ? "Registering..." : "Start My Journey"}
+                  {loading ? "Processing..." : "Start My Journey"}
                 </motion.button>
               </form>
             </div>
@@ -341,19 +280,21 @@ const StudentForm = () => {
       </section>
 
       {/* Footer */}
-      <footer className="text-center pb-20 px-4">
+      <footer className="text-center pb-24 px-4">
         <motion.div
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          className="space-y-4"
+          variants={fadeInUp}
+          initial="initial"
+          whileInView="whileInView"
         >
-          <p className="text-gray-500">Don't forget to follow the series on</p>
+          <p className="text-gray-500 mb-6 font-medium">
+            Don't forget to follow the series on
+          </p>
           <motion.a
-            whileHover={{ scale: 1.1, color: "#ef4444" }}
+            whileHover={{ scale: 1.1 }}
             href="https://youtube.com/@CodingTerminal"
-            className="inline-flex items-center gap-2 text-2xl font-bold transition-colors"
+            className="inline-flex items-center gap-3 text-3xl font-black transition-colors hover:text-red-500"
           >
-            <Youtube size={32} className="text-red-600" /> Coding Terminal
+            <Youtube size={40} className="text-red-600" /> Coding Terminal
           </motion.a>
         </motion.div>
       </footer>
