@@ -1,0 +1,840 @@
+[
+  {
+    "id": "PLs-JnCrPsdJGFHw1dOoIYoSjqQj3Xj-ga",
+    "title": "Unlocking DSA with Java | Crack Coding Interviews and placements | Build Logic from scratch | Data Structures and Algorithms | Saurabh Sir",
+    "items": [
+      {
+        "videoId": "E-O_qbsxm00",
+        "title": "Unlocking DSA with Java | Crack Coding Interviews & Build Logic from scratch | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/E-O_qbsxm00/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcqKbjNHcBwptMHd0e7tsgbubZEw"
+      },
+      {
+        "videoId": "fNa5Gir13pQ",
+        "title": "Java Setup Tutorial: VS Code Installation | Unlocking DSA with Java | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/fNa5Gir13pQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6n2iq0ls3fb2y4bNBjJzk5_wSvw"
+      },
+      {
+        "videoId": "s4d7B0L-8qw",
+        "title": "Java Print Statement Tutorial | Unlocking DSA with Java | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/s4d7B0L-8qw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1jKq035-p8HnnYvVTQeWkAx5Hfw"
+      },
+      {
+        "videoId": "M3AGdQIKyzI",
+        "title": "Java DataTypes Explained: Tutorial for Unlocking DSA with Java | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/M3AGdQIKyzI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdhEfaHMgUXvrJHITlHkDA_Sa-5w"
+      },
+      {
+        "videoId": "UWSZZCG051c",
+        "title": "Java Operators - Part 1 Tutorial : Boost Coding & DSA Skills | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/UWSZZCG051c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwy3ZkjVuKplFns5QRFqZgHCadig"
+      },
+      {
+        "videoId": "4Ma7MOZwSss",
+        "title": "Java Operators - Part 2 Tutorial : Boost Coding & DSA Skills | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/4Ma7MOZwSss/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLARtjtZ1IOe5VlGanOIeXzyW9M4iw"
+      },
+      {
+        "videoId": "qq3BzoQKjIo",
+        "title": "Java Input Techniques: Coding & Data Handling | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/qq3BzoQKjIo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuep5Kq_WVF9SDs13D3p2FZ2TImQ"
+      },
+      {
+        "videoId": "bqM3NUrIJmU",
+        "title": "Java Conditional Statements: If-Else in Java - Part 1 | Control Flow Essentials | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/bqM3NUrIJmU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAw706-uOL8CP6kh_rmC_TZLxCGeA"
+      },
+      {
+        "videoId": "6nJTqO-MX2I",
+        "title": "Java Conditional Statements: If-Else in Java - Part 2 | Control Flow Essentials | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/6nJTqO-MX2I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCETEaBpMa4XsVXoAtTM3Zsj8CLdA"
+      },
+      {
+        "videoId": "gg_NdgNk99E",
+        "title": "Java Switch Case Guide: Streamline Coding & Control | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/gg_NdgNk99E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBOsk9Vo8eF_ePgkLSuygo-5Yc0Qg"
+      },
+      {
+        "videoId": "DFxa_gWGPsk",
+        "title": "Master Java For Loop - Part 1 | Coding Loops & Iteration | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/DFxa_gWGPsk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDDlk6UdgZ1v3-rmfJSNSWaWmGsOg"
+      },
+      {
+        "videoId": "teU6RyfyFaA",
+        "title": "Master Java For Loop - Part 2 | Coding Loops & Iteration | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/teU6RyfyFaA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD94auXHINBlHIpGOc-RM0LC27ezg"
+      },
+      {
+        "videoId": "37dpSV06asw",
+        "title": "Master Java For Loop - Part 3 | Coding Loops & Iteration | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/37dpSV06asw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBwTdy8x-A3EmYDz8IYauTe1HenOQ"
+      },
+      {
+        "videoId": "s3XGrimwuAQ",
+        "title": "Master Java For Loop - Part 4 | Coding Loops & Iteration | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/s3XGrimwuAQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCkFXYOzR859wSA79SluHyPCt_SDQ"
+      },
+      {
+        "videoId": "BeTjAqCbO2M",
+        "title": "Java While Loop - Part 1: Effective Looping Techniques for Coding | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/BeTjAqCbO2M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvB5xc3-RJloG78qZ7AkAPqBERHQ"
+      },
+      {
+        "videoId": "68Gk1fCAN30",
+        "title": "Java While Loop - Part 2: Effective Looping Techniques for Coding | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/68Gk1fCAN30/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4TZOFVo9qd9UgDqpmqy6SSubQbw"
+      },
+      {
+        "videoId": "sLRY4Xn7sn8",
+        "title": "Java Do-While Loop Explained: Optimise Your Code | DSAwithedSlash Coding Series",
+        "thumbnail": "https://i.ytimg.com/vi/sLRY4Xn7sn8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCV8EivTtOz5W2nn7dlrVvhodI0Ag"
+      },
+      {
+        "videoId": "yO_KtBQ3ksM",
+        "title": "Java Pattern Printing - Part 1: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/yO_KtBQ3ksM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmhwwTmy49gBUqXWbk7E9QuvV1Qg"
+      },
+      {
+        "videoId": "Y00UhPUbiBw",
+        "title": "Java Pattern Printing - Part 2: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/Y00UhPUbiBw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBw7k3cAAwkFL_xn0yFTV3TfeQHzA"
+      },
+      {
+        "videoId": "vtXHXj6Rkto",
+        "title": "Java Pattern Printing - Part 3: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/vtXHXj6Rkto/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDQYdVD8MFNBwuaPo9FSQ5c0sNKQg"
+      },
+      {
+        "videoId": "TWIA1Uxo8sI",
+        "title": "Java Pattern Printing - Part 4: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/TWIA1Uxo8sI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmtPiQOK9TyXO1gq34Ey-T-Wk6cQ"
+      },
+      {
+        "videoId": "iTNdqESbu8o",
+        "title": "Java Pattern Printing - Part 5: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/iTNdqESbu8o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAtbGn4KIfpsrBUlOCePCULf9LtA"
+      },
+      {
+        "videoId": "sR6k2pGKdKY",
+        "title": "Java Pattern Printing - Part 6: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/sR6k2pGKdKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC9YwGdeQ8CVGYR0nFSe4p5pgTNmA"
+      },
+      {
+        "videoId": "dWN5I-vivaM",
+        "title": "Java Pattern Printing - Part 7: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/dWN5I-vivaM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVXWZhYhakEgkzVHXinAYVn60dMg"
+      },
+      {
+        "videoId": "XKCzgcOpl38",
+        "title": "Java Pattern Printing - Part 8: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/XKCzgcOpl38/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDQKhF82pgUTUSUKkCq921MnNrxNg"
+      },
+      {
+        "videoId": "XnNLpbAeGwE",
+        "title": "Java Pattern Printing - Part 9: Coding Art with Loops | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/XnNLpbAeGwE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC9g-8Zs-cL46D0sGUIaOuxPEuxMQ"
+      },
+      {
+        "videoId": "U9fMUsHx8q4",
+        "title": "Understanding Java Data Types | #dsawithedslash Coding Series",
+        "thumbnail": "https://i.ytimg.com/vi/U9fMUsHx8q4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDFZgTDYbIRgczEWNep9m5nvR54A"
+      },
+      {
+        "videoId": "z44myGVffps",
+        "title": "Stacks vs Heaps Explained - Java Memory Management | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/z44myGVffps/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAB4oVM7-XbXppu9IYs0_vR-un5KQ"
+      },
+      {
+        "videoId": "3h9YjfqowOM",
+        "title": "Java Functions: Unraveling Code Modularity | Essential Java Tutorials | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/3h9YjfqowOM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCvOCpIK3AZFGhzFTGAa4uHQXMcPw"
+      },
+      {
+        "videoId": "9yZZ1THteRQ",
+        "title": "Java Arrays Explained: Mastering Basic Concepts | Array Fundamentals | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/9yZZ1THteRQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPGNKYvD7CLwtgiPNvJK5c0Er7lA"
+      },
+      {
+        "videoId": "ypLly9d_RZI",
+        "title": "Mastering Java Arrays - Part 2: Advanced Techniques | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/ypLly9d_RZI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrYA3ICJTsMtWj9xzxNYLj4kMBzQ"
+      },
+      {
+        "videoId": "nm4qD87P-6s",
+        "title": "Mastering Java Arrays - Part 3: Advanced Techniques | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/nm4qD87P-6s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAoZTbZMygSdxQjA_hSG1PgpxVJew"
+      },
+      {
+        "videoId": "1xsdVwoEzfA",
+        "title": "Mastering Java Arrays - Part 4: Advanced Techniques | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/1xsdVwoEzfA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDEyi6gniUM0-ktf2kDGcrb7nqDww"
+      },
+      {
+        "videoId": "ig2i6KABFu4",
+        "title": "Mastering Java Arrays - Part 5: Advanced Techniques | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/ig2i6KABFu4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCK3pMdOU9Ne2L8QY0rD0lV2kxGDg"
+      },
+      {
+        "videoId": "SZkPkIysNfY",
+        "title": "Mastering Java Arrays - Part 6: Advanced Techniques | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/SZkPkIysNfY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNMZka2SpebZFGDRfgsieeGslTfQ"
+      },
+      {
+        "videoId": "zECInP5_LSg",
+        "title": "Mastering Java Arrays - Part 7: Advanced Techniques | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/zECInP5_LSg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCXpULaNmbcQUjQ_9sQzZ0JUlMRw"
+      },
+      {
+        "videoId": "2L61KUU1irE",
+        "title": "Mastering Java Arrays - Part 9: Advanced Techniques | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/2L61KUU1irE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCda1WeLUhV2EyBUS5ctP_10yQ8qQ"
+      },
+      {
+        "videoId": "hEcpLmz3Wz0",
+        "title": "Java ArrayList (Part - 1): Mastering Dynamic Arrays | ArrayList Fundamentals | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/hEcpLmz3Wz0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAahZPCt9LU9NCnTLmppfORW5q2GA"
+      },
+      {
+        "videoId": "h4L9uyqi8JE",
+        "title": "Java ArrayList (Part - 2): Mastering Dynamic Arrays | ArrayList Fundamentals | DSAwithedSlash Series",
+        "thumbnail": "https://i.ytimg.com/vi/h4L9uyqi8JE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJKBtRoIxKcz4RcfjhZ08K0hSvMQ"
+      }
+    ]
+  },
+  {
+    "id": "PLM68oyaqFM7S3pW3lcKSIZLw1Qcd73hHF",
+    "title": "Linked List Series",
+    "items": [
+      {
+        "videoId": "j7as9RqWngQ",
+        "title": "L-0 | Pre-requisite for LinkedList | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/j7as9RqWngQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB8zYdF2kl19MI2Lq8EAdsKPHYP9Q"
+      },
+      {
+        "videoId": "ljD6_EebDMQ",
+        "title": "L-1 | Implementation of Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/ljD6_EebDMQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtX14jpIiTpoLdKWaEZfJSJM4DsQ"
+      },
+      {
+        "videoId": "k9sWavytV4c",
+        "title": "L-1.2 | Removal in Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/k9sWavytV4c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUNqDz8QovHfOH59amaHRyWjeZlQ"
+      },
+      {
+        "videoId": "tTMairXt7Z4",
+        "title": "L-2 | Reverse LinkedList | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/tTMairXt7Z4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmNrFNmEujvXzKrfgNsWYFtFZAAg"
+      },
+      {
+        "videoId": "TpngS6JRj4c",
+        "title": "L-3 | Finding middle element in a linked list | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/TpngS6JRj4c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5K8Qtu7jPlvWHjNR_v87AwuRKxw"
+      },
+      {
+        "videoId": "LNuOB6dZ__Y",
+        "title": "L-4 | Nth node from end of LinkedList  | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/LNuOB6dZ__Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHVIZn-IwcXOhtc5KOQ3Kp7KbwEA"
+      },
+      {
+        "videoId": "xkuCDDc5pZY",
+        "title": "L-5 | Check if Linked List is Palindrome | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/xkuCDDc5pZY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTxH9kNviTV2FaPqBw9cjhtEye4w"
+      },
+      {
+        "videoId": "ICFBAHmh6eU",
+        "title": "L-6 | Implement Stack using Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/ICFBAHmh6eU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6ujs3rDUOaYWBaDdr2qIpi5ohcQ"
+      },
+      {
+        "videoId": "z3EWc5arZrg",
+        "title": "L-8 | Merge two sorted linked lists | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/z3EWc5arZrg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCB5wyo_MMh5D-HU1CouSjlfsDs_A"
+      },
+      {
+        "videoId": "-7ho2ady_rE",
+        "title": "L-7 | Implement Queue using Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/-7ho2ady_rE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1eJhNSKqXzBPE17wfG56qHZmy1A"
+      },
+      {
+        "videoId": "5hKxPWl5Qh8",
+        "title": "L-9 | Remove duplicate element from sorted Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/5hKxPWl5Qh8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7HiW5dSrGsuwu87PNzGS2vU0TkA"
+      },
+      {
+        "videoId": "cDS1rVeowV4",
+        "title": "L-10 | Add two numbers represented by linked lists | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/cDS1rVeowV4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCi65BfYgPhPA2CjHmHny6jfHpxcQ"
+      },
+      {
+        "videoId": "MRWz6sbRDxM",
+        "title": "L-11 | Segregate even and odd nodes in a Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/MRWz6sbRDxM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBU79q5OIrGL1BQU4uEQoCH7aqHaQ"
+      },
+      {
+        "videoId": "q2Xi16xstmc",
+        "title": "L-12 | Delete a Node in Single Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/q2Xi16xstmc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnBA0cAzUYpyr4Fn9I1NPfl8KkpQ"
+      },
+      {
+        "videoId": "Abhoq32SpAc",
+        "title": "L-13 | Detect Loop in linked list | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/Abhoq32SpAc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD02hiHZu0WHIhY2p7Cq0ok2nKNoA"
+      },
+      {
+        "videoId": "cL1Kec0i4o0",
+        "title": "L-14 | Find the first node of loop in linked list | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/cL1Kec0i4o0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB60d-meDKa8-vepGJLzPaVSd1kqQ"
+      },
+      {
+        "videoId": "WBqFNo7EdRA",
+        "title": "L-15 | Find length of Loop | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/WBqFNo7EdRA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCd6vwrO6s1OhghvibA4jlTCmX1Jw"
+      },
+      {
+        "videoId": "SW6vFhD7W58",
+        "title": "L-16 | Remove loop in Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/SW6vFhD7W58/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-ZicYIMMyiJGZ46Rx8JfJ9G_xtA"
+      },
+      {
+        "videoId": "fMBFEZDxZe8",
+        "title": "L-17 | Intersection Point in Y Shaped Linked Lists | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/fMBFEZDxZe8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5anPGdewpzdP5GpskOmCwAKsg2w"
+      },
+      {
+        "videoId": "UP-Z-aY7QvA",
+        "title": "L-18 | Merge K sorted linked lists | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/UP-Z-aY7QvA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWlqQW72L_jMLpkZfSiFmmX3q1xQ"
+      },
+      {
+        "videoId": "EVY2mhbKUqM",
+        "title": "L-19 | Rotate a Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/EVY2mhbKUqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxws-zncIQA0G_G3U_XfAB013iXQ"
+      },
+      {
+        "videoId": "VVATJR14loM",
+        "title": "L-20 | Flattening a Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/VVATJR14loM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDoqAXcO9ksSUIeLnr8VKc2FCrJKw"
+      },
+      {
+        "videoId": "Ir2yii0fldQ",
+        "title": "L-21 | Insertion Sort for Singly Linked List | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/Ir2yii0fldQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAq-AbE8TZNfZpWgAgP13LkURb2vA"
+      },
+      {
+        "videoId": "Z3iV2Wooz8w",
+        "title": "L-22 | Reverse a Linked List in groups of given size | Linked List Series | GeeksforGeeks Practice",
+        "thumbnail": "https://i.ytimg.com/vi/Z3iV2Wooz8w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8l1L8G_Kv7vLCdNT8m3pGaBmaSw"
+      },
+      {
+        "videoId": "7vBvqfV_iz8",
+        "title": "Complete Linked List Tutorial in 1 video || Linked List Interview Questions || GeeksforGeeks",
+        "thumbnail": "https://i.ytimg.com/vi/7vBvqfV_iz8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSNO_93ipJ4MkFuey6KrEBK1IhFg"
+      }
+    ]
+  },
+  {
+    "id": "PLs-JnCrPsdJFLUurhEk4AZ69xaqbDw6H4",
+    "title": "100-Days LeetCode Challenge | DSAwithedSlash | Java DSA",
+    "items": [
+      {
+        "videoId": "4aOsrT4w4M0",
+        "title": "Kickstart Your Coding Journey with a 100-Day LeetCode Challenge | Master DSA with Java",
+        "thumbnail": "https://i.ytimg.com/vi/4aOsrT4w4M0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB83TmDRTWylQue5YV-ucwySErpNA"
+      },
+      {
+        "videoId": "U8UnNZhoPQk",
+        "title": "LeetCode 9 | Palindrome Number | Day 1 | 100_Days_LeetCode_Challenge | Master DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/U8UnNZhoPQk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9zv7k5Coi5Y3er4O-VaA6W1Je-A"
+      },
+      {
+        "videoId": "CoKjo8h_r3w",
+        "title": "LeetCode 231 | Power of Two | Day 2 | 100_Days_LeetCode_Challenge | Master DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/CoKjo8h_r3w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAELG1am6c6p5a0ickM9K_rVKRkdQ"
+      },
+      {
+        "videoId": "zLrkxEo80kA",
+        "title": "LeetCode 509 | Fibonacci Number | Day 3 | 100_Days_LeetCode_Challenge | Master DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/zLrkxEo80kA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQ54cdQKWBLf64wj21-ARwCMTngw"
+      },
+      {
+        "videoId": "Lp8na8X5sqQ",
+        "title": "LeetCode 1137 | Tribonacci Number | Day 4 | 100_Days_LeetCode_Challenge | Master DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/Lp8na8X5sqQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWVnsycmhNN5t_rDvJ3KHHoofNTg"
+      },
+      {
+        "videoId": "VrXISj454Jc",
+        "title": "LeetCode 1518 | Water Bottles | Day 5 | 100_Days_LeetCode_Challenge | Master DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/VrXISj454Jc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgo_V_AKZqICCwcNrfeIwx6XMKwQ"
+      },
+      {
+        "videoId": "6zfMQVfQOds",
+        "title": "LeetCode 1 | Two Sum | Day 6 | 100_Days_LeetCode_Challenge | Master DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/6zfMQVfQOds/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCE67lNLdlCbtru5i1bRf7oe1ZuWQ"
+      },
+      {
+        "videoId": "QTCbgeSZWbY",
+        "title": "LeetCode 989 | Add to Array-Form of Integer | Day 7 | 100 Days_LeetCode_Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/QTCbgeSZWbY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcwPfxj6iZ4d68OqYAPLmej6iAaQ"
+      },
+      {
+        "videoId": "jE2Goga8cD4",
+        "title": "LeetCode 1464 | Maximum Product of Two Elements in an Array | Day 8 | 100 Days_LeetCode_Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/jE2Goga8cD4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQzdLTIDgKkcobJw28mzlbvEH4ig"
+      },
+      {
+        "videoId": "QpPOvwej2Eg",
+        "title": "LeetCode 4 | Median of two sorted Array | Day 9 | 100 Days_LeetCode_Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/QpPOvwej2Eg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcJ-WtcFj5Ps1PbkA8rmkZjvLN6A"
+      },
+      {
+        "videoId": "P9sk05O6gNA",
+        "title": "LeetCode 268 | Missing Number | Day 10 | 100 Days_LeetCode_Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/P9sk05O6gNA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqsFA9GoSjJtcyaRhFOwQrP9HY9w"
+      },
+      {
+        "videoId": "e-lA6W7GKng",
+        "title": "LeetCode 27 | Remove Element | Day 11 | 100 Days_LeetCode_Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/e-lA6W7GKng/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_euftmku12Xl9BFWrWcy73Ev-Xg"
+      },
+      {
+        "videoId": "yH8L4NdrvsU",
+        "title": "LeetCode 977 | Squares of a sorted Array | Day 12 | 100 Days_LeetCode_Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/yH8L4NdrvsU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA19Rt6SfiZ00n764l_WrofWs6cJw"
+      },
+      {
+        "videoId": "tdlD6ijL-7w",
+        "title": "LeetCode 167 | Two Sum II - Input Array is Sorted | Day 13 | 100 Days_LeetCode_Challenge | DSA",
+        "thumbnail": "https://i.ytimg.com/vi/tdlD6ijL-7w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBFWP36dC0yqyfTnTxEueayUJNTGg"
+      },
+      {
+        "videoId": "4r4rAW6pebU",
+        "title": "LeetCode 238 | Product of Array Except Self | Day 14 | 100 Days_LeetCode_Challenge| DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/4r4rAW6pebU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9nahoo6WrfpL2JGlgILtQeWWeKg"
+      },
+      {
+        "videoId": "uQM9sldV7ms",
+        "title": "LeetCode 319 | Bulb Switcher | Day 15 | 100 Days_LeetCode_Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/uQM9sldV7ms/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCaV7Iq-nodSN5wT6U7VrqJNP5B9w"
+      },
+      {
+        "videoId": "5KAiReTDzp8",
+        "title": "LeetCode 747 | Largest number at least twice of others | Day 16 | 100 Days_LeetCode_Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/5KAiReTDzp8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDufm9P4QJmgGW4o-wkF3ggh0rClw"
+      },
+      {
+        "videoId": "g94_MJuDsN0",
+        "title": "LeetCode 11 | Container with Most Water | Day 17 | 100 Days_LeetCode_Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/g94_MJuDsN0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDne1B7u6oKtD3pOW09o-SDX9JAig"
+      },
+      {
+        "videoId": "I5YSk0DYJrQ",
+        "title": "LeetCode 334 | Increasing Triplet Subsequence| Day18 | 100 Days_LeetCode_Challenge| DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/I5YSk0DYJrQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMZlZ1vs7ENbZL7lE2yYwKlmPbLA"
+      },
+      {
+        "videoId": "TE41nLQG4cM",
+        "title": "LeetCode 1800 | Maximum Ascending Subarray Sum| Day19 | 100 Days_LeetCode_Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/TE41nLQG4cM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLApBbEsDqf4MZtWI-bqhmC0BC1CjA"
+      },
+      {
+        "videoId": "-fBcGrFjso4",
+        "title": "LeetCode 1394 | Find Lucky Integer in an Array | Day 20 | 100 Days_LeetCode_Challenge|DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/-fBcGrFjso4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAv8V9mZcckKjMm3J3IRztza6FAyg"
+      },
+      {
+        "videoId": "RQBmmr2lgs4",
+        "title": "LeetCode 704 | Binary Search | Day 21 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/RQBmmr2lgs4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0SeP4jsytmvtCt5MhhiLOJKgwAQ"
+      },
+      {
+        "videoId": "HsSAEDhigD4",
+        "title": "LeetCode 34 | Find first and last Position of Element in Sorted Array | Day 22 | 100 Days LeetCode",
+        "thumbnail": "https://i.ytimg.com/vi/HsSAEDhigD4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc-nC2IQk9eDcoCppEBawgNJOW1A"
+      },
+      {
+        "videoId": "Nx9BjBzAvA4",
+        "title": "LeetCode 33 | Search in Rotated Sorted Array | Day 23 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/Nx9BjBzAvA4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD30SuI4KfZOjPAcly19pgPdBeoGg"
+      },
+      {
+        "videoId": "5_--qpoKElQ",
+        "title": "LeetCode 153 | Find minimum in Rotated Sorted Array | Day 24 | 100 Days LeetCode Challenge | DSA",
+        "thumbnail": "https://i.ytimg.com/vi/5_--qpoKElQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVqV4CsbZVw4Mww1URdy6lpLQv9w"
+      },
+      {
+        "videoId": "e_Cwl7EYEIc",
+        "title": "LeetCode 162 | Find Peak Element | Day 25 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/e_Cwl7EYEIc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFxxG3Bb60MrMBdpAvwkJU93-POA"
+      },
+      {
+        "videoId": "-9W4Myyqtek",
+        "title": "LeetCode 35 | Search Insert Position | Day 26 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/-9W4Myyqtek/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAacQ8rYXl5aIxsxc33SNj2jCZxvA"
+      },
+      {
+        "videoId": "sqfYcZ66vkc",
+        "title": "LeetCode 540 | Single Element in a Sorted Array | Day 27 | 100 Days LeetCode | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/sqfYcZ66vkc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1AbJLC6Q4DQICaxk8ODBlLK7u7A"
+      },
+      {
+        "videoId": "S6l20Rj3oFo",
+        "title": "LeetCode 75 | Sort Colors | Day 28 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/S6l20Rj3oFo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4AwEqmtB4XyqPuRjPEwBozpLO4g"
+      },
+      {
+        "videoId": "wQtYn0X4wus",
+        "title": "LeetCode 53 | Maximum Subarray | Day 29 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/wQtYn0X4wus/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_zQswnmDFUUXFx4zESf1ZOWGTxQ"
+      },
+      {
+        "videoId": "h1AeRVdQlC4",
+        "title": "LeetCode 42 | Trapping Rain Water | Day 30 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/h1AeRVdQlC4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAfPsi03hXELWj1W9SZ1gAADe4Ftw"
+      },
+      {
+        "videoId": "LtfIWA1yCEI",
+        "title": "LeetCode 2089 | Find Target Indices After Sorting Array | Day 31 | 100 Days LeetCode Challenge | DSA",
+        "thumbnail": "https://i.ytimg.com/vi/LtfIWA1yCEI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBl4VT0D-J5O1o1K-iZF8BchFAUPA"
+      },
+      {
+        "videoId": "80bA8JHrikw",
+        "title": "LeetCode 179 | Largest Number | Day 32 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/80bA8JHrikw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2YjFGzKX2602CDWgzaBJibNCiBQ"
+      },
+      {
+        "videoId": "JYxPDYV3KF8",
+        "title": "LeetCode 2529 | Maximum count of Positive and Negative Integer | Day 33 | 100 Day LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/JYxPDYV3KF8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyW3_iTE_d5fTNPSiA51flPtowBw"
+      },
+      {
+        "videoId": "aG9LHsa3gO8",
+        "title": "LeetCode 66 | Plus One | Day 34 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/aG9LHsa3gO8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAezbCLjoogY7f3nDmmlc_tb6MzqA"
+      },
+      {
+        "videoId": "a5kBxkr-hq0",
+        "title": "LeetCode 215 | Kth Largest Element in an Array | Day 35 | 100 Day LeetCode Challenge| DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/a5kBxkr-hq0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBDJJdk2isRiLbafBepnUuZVSVD2A"
+      },
+      {
+        "videoId": "N5HKBu6Zj7A",
+        "title": "LeetCode 1491 | Average Salary | Day 36 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/N5HKBu6Zj7A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCj2MYMtm5EKEmnBU7n-4oH4JMJQ"
+      },
+      {
+        "videoId": "qy0RtMfwOc4",
+        "title": "LeetCode 155 | Min Stack | Day 37 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/qy0RtMfwOc4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDoZXIKqJRcROH0VXnWt1-SoDsufg"
+      },
+      {
+        "videoId": "ShEdlEIiv9o",
+        "title": "LeetCode 225 | Implement Stack using Queues | Day 38 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/ShEdlEIiv9o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNC_LIpv00CbZLGNKL0rqy43XOWA"
+      },
+      {
+        "videoId": "o0qFVCmm67o",
+        "title": "LeetCode 232 | Implement Queue using Stacks | Day 39 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/o0qFVCmm67o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCl5YU33j_A-LsDSaN7cQf--4Kt7A"
+      },
+      {
+        "videoId": "M-0Hv4p0UUE",
+        "title": "LeetCode 128 | Longest Consecutive Sequence | Day 40 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/M-0Hv4p0UUE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDB4LX8ABxImFskQk1O2mnC8c2vTg"
+      },
+      {
+        "videoId": "veDCJIQmRuI",
+        "title": "LeetCode 287 | Find the Duplicate Number | Day 41 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/veDCJIQmRuI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCafEK6gI808FHADN4U0vZJdF7T4w"
+      },
+      {
+        "videoId": "NpN35IidF7s",
+        "title": "LeetCode 1046 | Last Stone Weight | Day 42 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/NpN35IidF7s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRMz6sZi95zLkf9oh8HcEKwUau2Q"
+      },
+      {
+        "videoId": "4KDFPiYUEbg",
+        "title": "LeetCode 724 | Find Pivot Index | Day 43 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/4KDFPiYUEbg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYTmj2roidDMyRMv0ySmvAR8b9Mw"
+      },
+      {
+        "videoId": "H0VGglQrEJw",
+        "title": "LeetCode 881 | Boats to Save People | Day 44 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/H0VGglQrEJw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB2P6LCM5DR5GlqoJrKXZx23tVReQ"
+      },
+      {
+        "videoId": "J_JR-6BjfrM",
+        "title": "LeetCode 58 | Length of Last Word | Day 45 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/J_JR-6BjfrM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVdevZDLOMMUsur2zMv4hhU-hlbw"
+      },
+      {
+        "videoId": "VBXcQKzlADs",
+        "title": "LeetCode 316 | Remove Duplicate Letters | Day 46 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/VBXcQKzlADs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFRIYpeh3FhhlpsGBzgAz92Dd9qA"
+      },
+      {
+        "videoId": "xC7JdzFh0xA",
+        "title": "LeetCode 151 | Reverse Words in a String | Day 47 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/xC7JdzFh0xA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDsgYJICCmrCQdNYBxYsuS_PqU9nw"
+      },
+      {
+        "videoId": "gKUYKjgjlO4",
+        "title": "LeetCode 443 | String Compression | Day 48 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/gKUYKjgjlO4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-fqNkg6n-cZzLgz7gZnqvVebN9w"
+      },
+      {
+        "videoId": "jxy0JRG5JhE",
+        "title": "LeetCode 394 | Decode String | Day 49 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/jxy0JRG5JhE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAmmJ3079rXmZw8n7jT6P04ORBGA"
+      },
+      {
+        "videoId": "t9_QBbbpDes",
+        "title": "LeetCode 1897 | Redistribute Characters to make all Strings Equal |Day 50 |100Day LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/t9_QBbbpDes/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAjkrpBSCBCOUZnY1ROL6AN0EFDIg"
+      },
+      {
+        "videoId": "aphoUQ3VN5o",
+        "title": "LeetCode 1446 | Consecutive Characters | Day 51 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/aphoUQ3VN5o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc6xRU4KcWzzPEST6rqNc5lQVBeg"
+      },
+      {
+        "videoId": "5sQ-OuhrXMg",
+        "title": "LeetCode 125 | Valid Palindrome | Day 52 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/5sQ-OuhrXMg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCs7PKwCQ0oRjojb-_FrS1Nb-JU7Q"
+      },
+      {
+        "videoId": "imnH6hxdvEQ",
+        "title": "LeetCode 20 | Valid Parentheses | Day 53 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/imnH6hxdvEQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAiQ50LAwwIYb99JUyLSz8VX0W7jA"
+      },
+      {
+        "videoId": "EQCRc1Nd4mI",
+        "title": "LeetCode 921 | Minimum Add to Make Parentheses Valid | Day 54 | 100 Days LeetCode Challenge Java DSA",
+        "thumbnail": "https://i.ytimg.com/vi/EQCRc1Nd4mI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLACiooL0qq2_l8iB_Rks91BoS9yyw"
+      },
+      {
+        "videoId": "mxlqUmohM8M",
+        "title": "LeetCode 242 | Valid Anagram | Day 55 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/mxlqUmohM8M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA7U2uHGv-rlLIVoUEpdUTuMKlNsA"
+      },
+      {
+        "videoId": "32pFat5_A_s",
+        "title": "LeetCode 1572 | Matrix Diagonal Sum | Day 56 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/32pFat5_A_s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_rtBboACM4aXHaUIymenOT5uFqg"
+      },
+      {
+        "videoId": "rvGWJhNkPLk",
+        "title": "LeetCode 867 | Transpose Matrix | Day 57 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/rvGWJhNkPLk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZWKwxBFofd5L0d2stI3nRNBXhow"
+      },
+      {
+        "videoId": "UA4xgSCWdoo",
+        "title": "LeetCode 59 | Spiral Matrix II | Day 58 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/UA4xgSCWdoo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-5ghEFrC3IST3avuwn7jVqn9Zkg"
+      },
+      {
+        "videoId": "DWRLp_g505k",
+        "title": "LeetCode 74 | Search a 2D Matrix | Day 59 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/DWRLp_g505k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOW2rdjukYnEPRk1Z9RQ9gLbeBew"
+      },
+      {
+        "videoId": "ZkMesYyVkKU",
+        "title": "LeetCode 48 | Rotate Image | Day 60 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/ZkMesYyVkKU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxWKi07CNpWKldmIidc1b0MNnm5A"
+      },
+      {
+        "videoId": "ipJiTWKSTyw",
+        "title": "LeetCode 234 | Palindrome Linked List | Day 61 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/ipJiTWKSTyw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAElqWaJBONpDR5mWSLQwX80cJbbQ"
+      },
+      {
+        "videoId": "9IytF_jLRLw",
+        "title": "LeetCode 21 | Merge Two Sorted Lists | Day 62 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/9IytF_jLRLw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBOl5tEVtAnepWFoAJhs4o6qBVDRQ"
+      },
+      {
+        "videoId": "c1WX5PB9C7A",
+        "title": "LeetCode 83 | Remove Duplicates from sorted Linked List | Day 63 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/c1WX5PB9C7A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLByL3awSqKyksv8cadsQCFNDaOSEA"
+      },
+      {
+        "videoId": "SPo_FxaV_k8",
+        "title": "LeetCode 2 | Add Two Numbers | Day 64 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/SPo_FxaV_k8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfFMkMZQ0XTwbKILZtLp7n5ZxLDQ"
+      },
+      {
+        "videoId": "OyY8dtcQgiI",
+        "title": "LeetCode 2816 | Double a Number represented as a Linked List | Day 65 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/OyY8dtcQgiI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxOGHD1Vb8B-pXRZ7bW5E8AsMV7Q"
+      },
+      {
+        "videoId": "w3x2Tw0SR38",
+        "title": "LeetCode 328 | Odd Even Linked List | Day 66 | 100 Days LeetCode Challenge | DSA with edSlash",
+        "thumbnail": "https://i.ytimg.com/vi/w3x2Tw0SR38/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCU96YiA7tnvR-361fOIzlrAQkwYw"
+      },
+      {
+        "videoId": "UG3nSFTllP4",
+        "title": "LeetCode 160 | Intersection of Two Linked List | Day 67 | 100 Day LeetCode Challenge DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/UG3nSFTllP4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7iSswwdhlKTh1JRCNCUszdxoJQw"
+      },
+      {
+        "videoId": "1d_LDkavfgw",
+        "title": "LeetCode 19 | Remove Nth node from End of List | Day 68 | 100 Days LeetCode Challenge DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/1d_LDkavfgw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsFc48J8xrXFJLGxoF77z0gzDL0A"
+      },
+      {
+        "videoId": "dDiONeufV4Y",
+        "title": "LeetCode 237 | Delete Node in a Linked List | Day 69 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/dDiONeufV4Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDy9P-eiJ-eizPaUS55e0hIAUJ8RA"
+      },
+      {
+        "videoId": "T1SJ9IRwbx0",
+        "title": "LeetCode 141 | Linked List Cycle | Day 70 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/T1SJ9IRwbx0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBs78SI0SHPa5--vtiMDrkg37QgOg"
+      },
+      {
+        "videoId": "MJ6Xujy_5Aw",
+        "title": "LeetCode 142 | Linked List Cycle II | Day 71 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/MJ6Xujy_5Aw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC5oa1nUNHn2xG3HV8Il9sjI64uPg"
+      },
+      {
+        "videoId": "cDVDLFLQgoM",
+        "title": "LeetCode 203 | Remove Linked List Elements | Day 72 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/cDVDLFLQgoM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdC-JDXJ98hwahR4lFnEPU3wVWLA"
+      },
+      {
+        "videoId": "iE_HnWIZbKk",
+        "title": "LeetCode 1019 | Next Greater Node in Linked List | Day 73 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/iE_HnWIZbKk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTTOAdqfLCK5bU2RRirrov1j5mHA"
+      },
+      {
+        "videoId": "DRA2qlGuUPI",
+        "title": "LeetCode 2095 | Delete The Middle Node of a Linked List | Day 74 | 100 Days LeetCode Challenge | DSA",
+        "thumbnail": "https://i.ytimg.com/vi/DRA2qlGuUPI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0qZFjiAtC1Z_uyhd8QUEnyM_G9Q"
+      },
+      {
+        "videoId": "7lF9UlNBb8M",
+        "title": "LeetCode 2181 | Merge Nodes in Between Zeros | Day 75 | 100 Days LeetCode Challenge | DSA",
+        "thumbnail": "https://i.ytimg.com/vi/7lF9UlNBb8M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLARLe15BENY856PX1CzPZRME8YJzg"
+      },
+      {
+        "videoId": "ruVHEtZWv3A",
+        "title": "LeetCode 23 | Merge k Sorted Lists | Day 76 | 100 Days LeetCode Challenge | DSA",
+        "thumbnail": "https://i.ytimg.com/vi/ruVHEtZWv3A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgXcsD3BxFjIbMhhcRkvEPCUx7Hg"
+      },
+      {
+        "videoId": "oR6T-xiahoA",
+        "title": "LeetCode 965 | Univalued Binary Tree | Day 77 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/oR6T-xiahoA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcTMWSnlri7X_03__nT_X28Qiw_w"
+      },
+      {
+        "videoId": "CNjJg0WKdyo",
+        "title": "LeetCode 222 | Count Complete Tree Nodes | Day 78 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/CNjJg0WKdyo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBO6gx6QsU53xr0rns4yddBb6WyNA"
+      },
+      {
+        "videoId": "5ioJWEnD4R0",
+        "title": "LeetCode 101 | Symmetric Tree | Day 79 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/5ioJWEnD4R0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXUqheNjaZwRwtLFxKSDDn3_NwHg"
+      },
+      {
+        "videoId": "Lkz9bYynoa0",
+        "title": "LeetCode 145 | Binary Tree Postorder Traversal | Day 80 | 100 Days LeetCode Challenge | DSAedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/Lkz9bYynoa0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJZJP72cglddHpOspJC20qihrdUQ"
+      },
+      {
+        "videoId": "wWTyb320tT0",
+        "title": "LeetCode 102 | Binary Tree Level Order Traversal | Day 81 | 100 Days LeetCode Challenge | DSAedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/wWTyb320tT0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAz111QLlNCp0nzAqfZULrlax4MeQ"
+      },
+      {
+        "videoId": "4tDwBO5Cugg",
+        "title": "LeetCode 257 | Binary Tree Paths | Day 82 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/4tDwBO5Cugg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-nzao9zzi79PyQQuT3G4Z2Z6qEQ"
+      },
+      {
+        "videoId": "5hiLe1GsiKc",
+        "title": "LeetCode 103 | Binary Tree Zigzag Level Order Traversal | Day 83 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/5hiLe1GsiKc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB2xhVKJ-G57dSY2Ow5iRimAJW0EQ"
+      },
+      {
+        "videoId": "wvhPuDvnkig",
+        "title": "LeetCode 110 | Balanced Binary Tree | Day 84 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/wvhPuDvnkig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCmVd7puHHUeq6URSIcvF6XfrOD_g"
+      },
+      {
+        "videoId": "RGKUF9vvZnU",
+        "title": "LeetCode 230 | Kth Smallest Element in a BST | Day 85 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/RGKUF9vvZnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8ExBRJeeGtdHvxQV94Zbkkk3bmA"
+      },
+      {
+        "videoId": "c-XCfhUMs5U",
+        "title": "LeetCode 112 | Path Sum | Day 86 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/c-XCfhUMs5U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyXYgcqNij_Q0g16V9_AD9Za4z3g"
+      },
+      {
+        "videoId": "bfdCYfUd7yg",
+        "title": "LeetCode 199 | Binary Tree Right Side View | Day 87 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/bfdCYfUd7yg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0LlSjrDL-gAQOzeGPqm9dinjJXA"
+      },
+      {
+        "videoId": "4VErA2LkQ-w",
+        "title": "LeetCode 226 | Invert Binary Tree | Day 88 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/4VErA2LkQ-w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDesPLxHbfcqOXtZuLb5-QYWjSM8Q"
+      },
+      {
+        "videoId": "OEdRCnWZlHg",
+        "title": "LeetCode 543 | Diameter of Binary Tree | Day 89 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/OEdRCnWZlHg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcbQaEfhMUcktuQ7lx-Ht7nwhBjw"
+      },
+      {
+        "videoId": "c_o05s9WbLg",
+        "title": "LeetCode 108 | Converted Sorted Array to Binary Search Tree | Day 90 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/c_o05s9WbLg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjrrVJd3_Q754bbc8MqjUZoSYFNQ"
+      },
+      {
+        "videoId": "xX5GBXUj72k",
+        "title": "LeetCode 617 | Merge two Binary Trees | Day 91 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/xX5GBXUj72k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAlrgiL_VQG_HNjKWWsqcgpnCGDqQ"
+      },
+      {
+        "videoId": "_FPN2_qPbkc",
+        "title": "LeetCode 700 | Search in a Binary Search Tree | Day 92 | 100 Day LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/_FPN2_qPbkc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCJ_h2sXsCU6ZU5JGWhpcAxl7Jo8w"
+      },
+      {
+        "videoId": "FggMDZuT_aM",
+        "title": "LeetCode 701 | Insert into a Binary Search Tree | Day 93 | 100 Day LeetCode Challenge|DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/FggMDZuT_aM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGMwxdq8qsFr0zYSgIBxFVwKABRQ"
+      },
+      {
+        "videoId": "oTDLdp8qOWE",
+        "title": "LeetCode 235 | Lowest Common Ancestor of a Binary Search Tree | Day 94 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/oTDLdp8qOWE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD9fuqqoGcSFOPReYHyw6RAWUsLRQ"
+      },
+      {
+        "videoId": "wi_q1S65yvg",
+        "title": "LeetCode 98 | Validate Binary Search Tree | Day 95 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/wi_q1S65yvg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChxW94siKAVif8FPaLGR4KMEyF5A"
+      },
+      {
+        "videoId": "3EczvGBv-Jc",
+        "title": "LeetCode 109 | Convert Sorted List to Binary Search Tree | Day 96 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/3EczvGBv-Jc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB8wb0xJ_JQ9KN7e980ZhDvAt9CEg"
+      },
+      {
+        "videoId": "IkorpeTfwsM",
+        "title": "LeetCode 1382 | Balance a Binary Search Tree | Day 97 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/IkorpeTfwsM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAr0dwS_cHOZl8Cqp1Cz5FgOgiqUg"
+      },
+      {
+        "videoId": "g_-SJw1Za2A",
+        "title": "LeetCode 1302 | Deepest Leaves Sum | Day 98 | 100 Days LeetCode Challenge | DSAwithedSlash",
+        "thumbnail": "https://i.ytimg.com/vi/g_-SJw1Za2A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAWfyBLx7rAYBjY6E1hZRbMGCKh6Q"
+      },
+      {
+        "videoId": "tVq0ekZ_yFM",
+        "title": "LeetCode 1038 | Binary Search Tree to Greater Sum Tree | Day 99 | 100 Days LeetCode Challenge",
+        "thumbnail": "https://i.ytimg.com/vi/tVq0ekZ_yFM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDOuYWe5FU0B365Ksf4iT1ot1hAYA"
+      }
+    ]
+  }
+]

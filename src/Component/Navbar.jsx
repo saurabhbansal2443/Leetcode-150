@@ -10,6 +10,7 @@ const navLinks = [
   { to: "/", label: "Home" },
   { to: "/topics", label: "Topic-Wise DSA" },
   { to: "/100days", label: "100 Days Challenge" },
+  { to: "/youtube", label: "YouTube Series" },
 ];
 
 const Navbar = () => {
